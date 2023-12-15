@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "batiklens-capstone-project",
+  "private_key_id": "2d8934092a6478741f2e9a487398d06b42a14b31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMJILJ+tFypu4b\nXlkcccarCluqVnw4v5TJN43RTZR7cJn64YROGr+jp3+eyb4fWKNi7zUyAm9nz/hm\nGL4eANys3vHGaKwga+bkBsU1Xh1wjE8u2ob3fpgJC/hJIjgOgfOkYrwNEMacDnmX\n45UJDfCZTNuT9Z7ZquKIbVFrJXuYjJsw7cYpqJD9EGMJRgiQeEqSFbdZ64xrknSD\njlxNlCsacw/uIvjqc4ZnDPq8o9NgAO8KsznRP6NFWEnQg5Vh0XWE8rwU9scd1p7F\nwbbtERzbNGQJ/lTgYEf/ODdYavVsJIapi4zkO2Ud57JOXHHsEx9lhbfU1lzc4NRm\n5Zn8Khv7AgMBAAECggEAESEDJGV6S498LSm2em+FhvaAiINnOu/AUT3rFWPYEJ97\nHBTuIAuYhufYCn/NBx5N31BI+2A+7swBgLeUxDm4Sn0OdmJ0Buhm4D09MOQrvjTX\ntAu8BWpG4YNymthXMchvpBxwwPvmXlPMmhULfU4BISvUxM54PLVc+quJiF8Fxt/n\nBi7WfhfzuuRZLLaeDGIk/LHb1PoSwweDSZzKG9VnmhmHHBb6ua/twWzIh21p7cdu\n1wUHEcGCY2mO1JL8Xu2XOooxrY4uh5ItSC35RBpr9vEmKQxUgReVlMVmrG01d02i\nUNPvglywx7sWGfFsBJ7xNjXvjGdRuuxs9cqy7bx+UQKBgQDs/1OkqCX5MxIL604c\n+r4+kz10sgs5zGvBwYtTWpBq2BziEs3Xuh2ESi5LU3nZoJc5NP4YpQ/5Du4J/GJ6\nWP6X3n2WN8cIWBB9sKBBmhzGF/G1v5xVQOy7rRt+sDcHeRzMDQSsb7rZWK9pFmHr\nSINkjVf4Wt0i3VzKKz/9hq12OQKBgQDcgsxsmb54L6njbX4BsqyfQMW1F8vZ5xBu\nRW4TTUJArYtVffD0R6EIVaP7nBi76kWx/w23sQYtuySL/BTFeO1k7gmw+pGNEIGz\nqgt2z2hZHrvPMetOjwOCD/W8KBeJXnjTfwvphO0mT04UwEOeDbTLaRgckYk2K1zA\n/lntcUcD0wKBgANWeTwZbid7U6a9UqVP1rwU4Mmy9DuFKINbEXZEEUKf9pAsiZ+f\nLGk/jjVbYJzzCQ4yM93u/TGZxzp2xoBInpVO+d/Su0ffzaOniCpEXGFh1vKjVzVQ\nK8Vc48U+ABhn2UL6b/VpwWzsNdQ6D3j71XXmE7YYuYKTMYpbX5RXgDvpAoGANMdB\nsoSh6BZQbVTZogJn+r4AFDYb3o3Fiv8nN4t4Xg6rmMzKDU3PpzUISMK10NRj1hSb\n7el69xshxjeRqSomd8/ZlfiDOeZHhP8gO1GtQhdvEEp8bZMhXdIAGQbni0OHW+e+\nrCfasx6sK59RD9Vr/nuq/7t9we9jBfZbA8/nFW0CgYEApqIl3Ckd9UhzfPMFs5fq\nSJ++Aykggc+3+IbNn1bI/525NYIKMUfqir2mgbO077LFRUIr0tZREHnf53ekk0Dj\nojdJZyLNr2AqViHmMOsefh3g8ELwQzMrcl7DZu8njPCnpSvB10kp1Xi0gjO/KVrP\nLZC+lJmZu/HTC55Rzr7x3rY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "batiklens-capstone-project@appspot.gserviceaccount.com",
+  "client_id": "103529806150073918875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/batiklens-capstone-project%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
